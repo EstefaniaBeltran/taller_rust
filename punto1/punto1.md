@@ -1,3 +1,4 @@
+Integrantes: Beltrán Yeimy, Suárez Marc y Poveda Alejandro
 # PARTE 1 – Modelo de Memoria
 
 Actividad 1: Representación Visual de Memoria 
