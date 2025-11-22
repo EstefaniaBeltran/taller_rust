@@ -2,4 +2,4 @@
 
 Actividad 1: Representación Visual de Memoria 
 
-![Descripción de la imagen](imagenes/deepseek_mermaid_20251122_4c9bb8.png)
+![Descripción de la imagen](images/punto1.png)
