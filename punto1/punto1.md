@@ -2,4 +2,5 @@
 
 Actividad 1: Representación Visual de Memoria 
 
-![Descripción de la imagen](images/punto1.png)
+![Descripción de la imagen](../images/punto1.png)
+
