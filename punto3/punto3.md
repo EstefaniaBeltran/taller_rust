@@ -1,3 +1,4 @@
+Integrantes: Beltrán Yeimy, Suárez Marc y Poveda Alejandro
 # PARTE 3 – Arquitectura Conceptual
 
 Actividad 3: Diseña una mini arquitectura
